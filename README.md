@@ -9,3 +9,5 @@ Day 1: Go
 Day 2: Rust
 
 Day 3: Crystal
+
+Day 4: Elixir
