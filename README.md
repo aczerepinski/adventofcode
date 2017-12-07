@@ -9,3 +9,4 @@ Solutions to the puzzles presented at adventofcode.com.
 * Day 3: Crystal
 * Day 4: Elixir
 * Day 5: Hack
+* Day 6: Ruby
