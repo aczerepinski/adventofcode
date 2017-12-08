@@ -10,3 +10,4 @@ Solutions to the puzzles presented at adventofcode.com.
 * Day 4: Elixir
 * Day 5: Hack
 * Day 6: Ruby
+* Day 7: JavaScript
