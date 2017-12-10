@@ -12,3 +12,4 @@ Solutions to the puzzles presented at adventofcode.com.
 * Day 6: Ruby
 * Day 7: JavaScript
 * Day 8: Python
+* Day 9: Swift
