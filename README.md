@@ -13,3 +13,4 @@ Solutions to the puzzles presented at adventofcode.com.
 * Day 7: JavaScript
 * Day 8: Python
 * Day 9: Swift
+* Day 10: Go
