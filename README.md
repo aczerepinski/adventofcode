@@ -15,3 +15,4 @@ Solutions to the puzzles presented at adventofcode.com.
 * Day 9: Swift
 * Day 10: Go
 * Day 11: Elixir
+* Day 12: Go
