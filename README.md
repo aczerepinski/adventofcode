@@ -4,6 +4,10 @@ Solutions to the puzzles presented at adventofcode.com.
 
 ### Languages used
 
+## 2018
+* Day 1: Elixir
+
+## 2017
 * Day 1: Go
 * Day 2: Rust
 * Day 3: Crystal
