@@ -1,11 +1,10 @@
-# Advent of Code 2017
+# Advent of Code
 
 Solutions to the puzzles presented at adventofcode.com.
 
-### Languages used
-
 ## 2018
 * Day 1: Elixir
+* Day 2: Elixir
 
 ## 2017
 * Day 1: Go
