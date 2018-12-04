@@ -5,6 +5,7 @@ Solutions to the puzzles presented at adventofcode.com.
 ## 2018
 * Day 1: Elixir
 * Day 2: Elixir
+* Day 3: Elixir
 
 ## 2017
 * Day 1: Go
