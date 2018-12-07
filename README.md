@@ -6,6 +6,7 @@ Solutions to the puzzles presented at adventofcode.com.
 * Day 1: Elixir
 * Day 2: Elixir
 * Day 3: Elixir
+* Day 4: Elixir
 
 ## 2017
 * Day 1: Go
