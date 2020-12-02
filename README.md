@@ -2,6 +2,9 @@
 
 Solutions to the puzzles presented at adventofcode.com.
 
+## 2020
+* Day 1: Rust
+
 ## 2019
 * Day 1: Elixir
 * Day 2: Elixir
