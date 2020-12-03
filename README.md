@@ -4,6 +4,8 @@ Solutions to the puzzles presented at adventofcode.com.
 
 ## 2020
 * Day 1: Rust
+* Day 2: Go
+* Day 3: Crystal
 
 ## 2019
 * Day 1: Elixir
