@@ -9,6 +9,7 @@ Solutions to the puzzles presented at adventofcode.com.
 * Day 4: Crystal
 * Day 5: Go
 * Day 6: Elixir
+* Day 7: Elixir
 
 ## 2019
 * Day 1: Elixir
